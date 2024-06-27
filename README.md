@@ -3,7 +3,7 @@
 Este proyecto es un carrito de compras desarrollado como parte del curso **"Aprende React desde cero"** de Juan de la Torre. A lo largo del curso, aprendí sobre diversos conceptos y técnicas de React
 ## 🚀 Demo
 
-[[[Ver demo en vivo](https://cartguitarreact.netlify.app/)]
+[Ver demo en vivo](https://cartguitarreact.netlify.app/)
 
 ## 📸 Capturas de Pantalla
 
