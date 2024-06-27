@@ -5,9 +5,20 @@ Este proyecto es un carrito de compras desarrollado como parte del curso **"Apre
 
 [Ver demo en vivo](https://cartguitarreact.netlify.app/)
 
-## 📸 Capturas de Pantalla
+📚 Funcionalidades
+Añadir Productos al Carrito: Selecciona productos y agrégalos al carrito.
+Eliminar Productos del Carrito: Elimina productos del carrito individualmente.
+Persistencia con localStorage: El carrito se guarda automáticamente en localStorage.
+Optimización con useMemo: Mejoras en el rendimiento para renderizados costosos.
 
-*(Incluye algunas capturas de pantalla de tu aplicación aquí)*
+📝 Aprendizajes
+Durante el desarrollo de este proyecto, he aprendido a:
+
+Manejar el estado y efectos en componentes funcionales con React Hooks.
+Manipular arrays y objetos de manera inmutable.
+Persistir el estado de la aplicación utilizando localStorage.
+Dividir la aplicación en componentes reutilizables y manejables.
+Optimizar la aplicación con useMemo para evitar renderizados innecesarios.
 
 ## 🛠️ Tecnologías Utilizadas
 
